@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  DevOps Engineer | 2 Years of Production Application Support Experience
+  DevOps Engineer | 2 Years of Production & Application Support Experience
 </h3>
 
 <p align="center">
