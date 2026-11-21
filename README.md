@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Application Support Engineer | Building my path into Cloud & DevOps Engineering
+  DevOps Engineer | 2 Years of Production Application Support Experience
 </h3>
 
 <p align="center">
@@ -23,11 +23,11 @@
 
 ## 👨‍💻 About Me
 
-- I'm an **Application Support Engineer** with hands-on experience supporting production applications and Linux/Windows servers.
-- I work on application and server monitoring, health checks, log analysis, incident troubleshooting, IIS deployments, API investigation and production support documentation.
-- I'm building practical skills in **AWS, Terraform, Docker, Kubernetes, CI/CD and GitOps** through hands-on projects.
-- I enjoy understanding how applications are built, deployed, monitored and operated reliably.
-- My goal is to grow into a **Cloud & DevOps Engineering** role.
+- I'm a **DevOps Engineer** focused on building, deploying and supporting reliable applications and cloud-native environments.
+- I bring **2 years of production application-support experience**, including Linux and Windows server monitoring, application health checks, log analysis, incident troubleshooting, IIS deployments, API investigation and operational documentation.
+- I work hands-on with **AWS, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions and GitOps** through practical projects and continuous learning.
+- I enjoy improving deployment workflows, automating repeatable tasks and strengthening application reliability through monitoring and troubleshooting.
+- My portfolio demonstrates practical work across containerization, CI/CD, Kubernetes deployments, infrastructure as code and GitOps.
 
 ---
 
